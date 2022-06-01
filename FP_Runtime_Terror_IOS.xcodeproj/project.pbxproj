@@ -80,8 +80,8 @@
 			children = (
 				F94743B5283DD06C00A965F2 /* effil.mp4 */,
 				F94743B6283DD06C00A965F2 /* sol.mp4 */,
-				F94743B7283DD06C00A965F2 /* wall.mp4 */,
 				F94743B3283DD05D00A965F2 /* taj.mp4 */,
+				F94743B7283DD06C00A965F2 /* wall.mp4 */,
 				F9C7C420283D9A74004F6105 /* AppDelegate.swift */,
 				F9C7C422283D9A74004F6105 /* SceneDelegate.swift */,
 				F9C7C424283D9A74004F6105 /* ViewController.swift */,

@@ -1,10 +1,3 @@
-//
-//  PlacesTableViewCell.swift
-//  TouristApp
-//
-//  Created by Rohit Gupta on 24/05/22.
-//
-
 import UIKit
 
 class PlacesTableViewCell: UITableViewCell {

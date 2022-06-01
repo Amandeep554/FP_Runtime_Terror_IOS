@@ -47,7 +47,6 @@ class CreateViewController: UIViewController, UINavigationControllerDelegate, UI
         imagePickerController.sourceType = .photoLibrary
         imagePickerController.delegate = self
         imagePickerController.mediaTypes = ["public.image", "public.movie"]
-        
         present(imagePickerController, animated: true, completion: nil)
     }
     
